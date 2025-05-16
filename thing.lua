@@ -1,1 +1,1 @@
-fastColoredTextBox1
+print("funciona")
