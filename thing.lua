@@ -1,1 +1,1 @@
-print("xd")
+fastColoredTextBox1
